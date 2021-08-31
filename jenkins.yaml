@@ -7,7 +7,7 @@ cloudbees-slack-integration:
       jenkins: "smoyer"
       optedIn: true
       scmId: "smoyer"
-      slack: "REPLACE_USER_EMAIL"
+      slack: "scott.moyer@tiaa.org"
       slackWorkspace: "T010A455W77"
 cloudbees-pipeline-policies:
   config:
